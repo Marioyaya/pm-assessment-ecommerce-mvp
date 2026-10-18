@@ -1,7 +1,7 @@
 # IT Product Manager Assessment: E-commerce System MVP
 
-**Candidate:** HUWEI
-**Position:** IT Product Manager
+**Candidate:** HUWEI  
+**Position:** IT Product Manager  
 **Contact:** 2295048910@qq.com
 
 This repository contains my answers to the Product Manager Assignment *"E-commerce System MVP Design & Basic Technical Understanding"*.
@@ -20,10 +20,10 @@ My answers follow one principle: **the MVP must prove the core transaction loop 
 
 | # | Topic | File |
 |---|---|---|
-| 1.1 | User Roles and Core Scenarios | [1.1-user-roles-and-core-scenarios.md](part1/1.1-user-roles-and-core-scenarios.md) |
-| 1.2 | MVP Feature List and Priority (P0 / P1 / P2) | [1.2-mvp-feature-list-and-priority.md](part1/1.2-mvp-feature-list-and-priority.md) (Excel version: [.xlsx](part1/1.2-mvp-feature-list-and-priority.xlsx)) |
-| 1.3 | Core Process Design: Order and Payment, Order Cancellation | [1.3-core-process-design.md](part1/1.3-core-process-design.md) |
-| 1.4 | Simplified PRD: Submit Order Page | [1.4-simplified-prd-submit-order-page.md](part1/1.4-simplified-prd-submit-order-page.md) |
+| 1.1 | User Roles and Core Scenarios | [1.1-user-roles-and-core-scenarios.md](1.1-user-roles-and-core-scenarios.md) |
+| 1.2 | MVP Feature List and Priority (P0 / P1 / P2) | [1.2-mvp-feature-list-and-priority.md](1.2-mvp-feature-list-and-priority.md) (Excel version: [.xlsx](1.2-mvp-feature-list-and-priority.xlsx)) |
+| 1.3 | Core Process Design: Order and Payment, Order Cancellation | [1.3-core-process-design.md](1.3-core-process-design.md) |
+| 1.4 | Simplified PRD: Submit Order Page | [1.4-simplified-prd-submit-order-page.md](1.4-simplified-prd-submit-order-page.md) |
 
 > Q1.2 is provided as a readable Markdown page, plus an optional Excel workbook with the same 34 features and an auto-calculated priority summary. GitHub does not preview `.xlsx` files, so please download the workbook to view it.
 
@@ -31,16 +31,16 @@ My answers follow one principle: **the MVP must prove the core transaction loop 
 
 | # | Topic | File |
 |---|---|---|
-| 5 | API Understanding Question | [q5-api-understanding.md](part2/q5-api-understanding.md) |
-| 6 | Simple Logic Reading Question | [q6-simple-logic-reading.md](part2/q6-simple-logic-reading.md) |
-| 7 | Order Status Understanding Question | [q7-order-status.md](part2/q7-order-status.md) |
-| 8 | Bug / Exception Analysis Question | [q8-bug-exception-analysis.md](part2/q8-bug-exception-analysis.md) |
+| 5 | API Understanding Question | [q5-api-understanding.md](q5-api-understanding.md) |
+| 6 | Simple Logic Reading Question | [q6-simple-logic-reading.md](q6-simple-logic-reading.md) |
+| 7 | Order Status Understanding Question | [q7-order-status.md](q7-order-status.md) |
+| 8 | Bug / Exception Analysis Question | [q8-bug-exception-analysis.md](q8-bug-exception-analysis.md) |
 
 ### Part 3: Data and Metrics
 
 | # | Topic | File |
 |---|---|---|
-| 9 | Core Metrics Design | [q9-core-metrics-design.md](part3/q9-core-metrics-design.md) |
+| 9 | Core Metrics Design | [q9-core-metrics-design.md](q9-core-metrics-design.md) |
 
 ## Key Design Decisions at a Glance
 
